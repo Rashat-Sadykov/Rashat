@@ -29,7 +29,12 @@
 
 ---
 
-### 📫 Как со мной связаться:
-* **Telegram:** [@Voltamper9](https://t.me) 
-* **Телефон:** +79289308866
+### 📬 Как со мной связаться
+
+[![Telegram](https://shields.io)](https://t.me)
+[![Email](https://shields.io)](mailto:voltamper999@mail.ru)
+[![Телефон](https://shields.io)](https://wa.me)
+
+* **Telegram:** [@Voltamper9](https://t.me)
+* **Телефон / WhatsApp:** +79293908866
 * **Email:** voltamper999@mail.ru
