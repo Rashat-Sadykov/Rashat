@@ -6,23 +6,9 @@
 
 ### 🛠️ Навыки и технологии
 
-* **Информационная безопасность & СКЗИ:**
-  <br>
-  ![MaxPatrol 10](https://shields.io🛡️-darkred?style=flat-square)
-  ![Kaspersky](https://shields.io)
-  ![CryptoPro](https://shields.io🔑-grey?style=flat-square)
-  ![ViPNet](https://shields.io🔒-blue?style=flat-square)
-
-* **Системное администрирование & Сети:**
-  <br>
-  ![Linux](https://shields.io)
-  ![Windows Server](https://shields.io)
-  ![Active Directory](https://shields.io)
-  ![OpenVPN](https://shields.io)
-
-* **Автоматизация:**
-  <br>
-  ![Python](https://shields.io)
+* **Информационная безопасность & СКЗИ:** `SIEM (MaxPatrol 10)` · `Kaspersky Security Center` · `КриптоПро CSP` · `ViPNet Client`
+* **Системное администрирование & Сети:** `Linux` · `Windows Server` · `Active Directory` · `OpenVPN`
+* **Автоматизация:** `Python`
 
 ---
 
