@@ -6,10 +6,23 @@
 
 ### 🛠️ Навыки и технологии
 
-* **Информационная безопасность:** `SIEM` · `Анализ уязвимостей` · `Кейс-проект "Киберзащитник" (S7 Airlines)`
-* **Системное администрирование:** `Linux` · `Windows Server` · `Active Directory` · `Инфраструктурные проекты`
-* **Средства защиты и СКЗИ:** `Secret Net Studio` · `Kaspersky Security Center` · `КриптоПро`
-* **Языки программирования:** `Python`
+* **Информационная безопасность & СКЗИ:**
+  <br>
+  ![MaxPatrol 10](https://shields.io🛡️-darkred?style=flat-square)
+  ![Kaspersky](https://shields.io)
+  ![CryptoPro](https://shields.io🔑-grey?style=flat-square)
+  ![ViPNet](https://shields.io🔒-blue?style=flat-square)
+
+* **Системное администрирование & Сети:**
+  <br>
+  ![Linux](https://shields.io)
+  ![Windows Server](https://shields.io)
+  ![Active Directory](https://shields.io)
+  ![OpenVPN](https://shields.io)
+
+* **Автоматизация:**
+  <br>
+  ![Python](https://shields.io)
 
 ---
 
