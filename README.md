@@ -31,10 +31,13 @@
 
 ### 📬 Как со мной связаться
 
-[![Telegram](https://shields.io)](https://t.me)
-[![Email](https://shields.io)](mailto:voltamper999@mail.ru)
-[![Телефон](https://shields.io)](https://wa.me)
+<a href="https://t.me" target="_blank"><img src="https://shields.io" alt="Telegram"></a>
+<a href="mailto:voltamper999@mail.ru" target="_blank"><img src="https://shields.io" alt="Email"></a>
+<a href="https://wa.me" target="_blank"><img src="https://shields.io" alt="Телефон"></a>
+
+<br><br>
 
 * **Telegram:** [@Voltamper9](https://t.me)
 * **Телефон / WhatsApp:** +79293908866
 * **Email:** voltamper999@mail.ru
+
