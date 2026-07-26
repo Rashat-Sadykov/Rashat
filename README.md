@@ -9,16 +9,24 @@
 * **Средства защиты & СКЗИ.** Практика развертывания Secret Net Studio, Kaspersky Security Center и КриптоПро.
 
 Сертификаты и документы
-* **Нетология:**
-* **Администрирование СЗИ** [Смотреть сертификат](https://github.com/Rashat-Sadykov/my-certificates/blob/main/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%A1%D0%97%D0%98.pdf)
-* **Безопасность ОС, системное программирование** [Смотреть сертификат](https://github.com/Rashat-Sadykov/my-certificates/blob/main/%D0%91%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D1%85%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%2C%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
-* **Основы ИБ** [Смотреть сертификат](https://github.com/Rashat-Sadykov/my-certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%98%D0%91.pdf)
-* **Сети передачи данных и безопасность** [Смотреть сертификат](https://github.com/Rashat-Sadykov/my-certificates/blob/main/%D0%A1%D0%B5%D1%82%D0%B8%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B8%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B8%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C.pdf)
-* **"Киберзащитник" S7 Airlines:** 
-* **Обеспечение функционирования ИТ-инфраструктуры и ее безопасности** [Смотреть сертификат](https://github.com/Rashat-Sadykov/my-certificates/blob/main/%D0%9E%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%98%D0%A2-%D0%B8%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B%20%D0%B8%20%D0%B5%D0%B5%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.pdf)
-* **Основы ИТ и ИБ** [Смотреть сертификат](https://github.com/Rashat-Sadykov/my-certificates/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%98%D0%A2%20%D0%B8%20%D0%98%D0%91.pdf)
-* **РАНХиГС:**
-* **Python** [Смотреть сертификат](https://github.com/Rashat-Sadykov/my-certificates/blob/main/%D0%A3%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%20%D0%BF%D0%BE%D0%B2%D1%8B%D1%88%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BA%D0%B2%D0%B0%D0%BB%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8%20%D0%A0%D0%90%D0%9D%D0%A5%D0%B8%D0%93%D0%A1.pdf)
+<details>
+  <summary><b>📜 Нажмите, чтобы посмотреть сертификаты и документы</b></summary>
+  <br>
+
+  ### Нетология
+  * **Администрирование СЗИ** — [Открыть](https://github.com)
+  * **Безопасность ОС, системное программирование** — [Открыть](https://github.com)
+  * **Основы ИБ** — [Открыть](https://github.com)
+  * **Сети передачи данных и безопасность** — [Открыть](https://github.com)
+  * **Киберзащитник S7 Airlines** — [Открыть](https://github.com)
+  * **Обеспечение функционирования ИТ-инфраструктуры и ее безопасности** — [Открыть](https://github.com)
+  * **Основы ИТ и ИБ** — [Открыть](https://github.com)
+
+  ### РАНХиГС
+  * **Python** — [Открыть](https://github.com)
+
+</details>
+
 ---
 
 ### 📫 Как со мной связаться:
