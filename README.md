@@ -1,14 +1,18 @@
-Привет!
+# Привет! 👋
 
 Я Рашат, специалист по информационной безопасности и системный администратор.
 
-Вот, что я умею:
+---
 
-* **Информационная безопасность.** [Кейс-проект по анализу уязвимостей и SIEM «Киберзащитник» (S7 Airlines)](ссылка_на_ваш_репозиторий)
-* **Системное администрирование.** Инфраструктурные проекты, настройка Active Directory, Windows Server и Linux.
-* **Средства защиты & СКЗИ.** Практика развертывания Secret Net Studio, Kaspersky Security Center и КриптоПро.
+### 🛠️ Навыки и технологии
 
-Сертификаты и документы
+* **Информационная безопасность:** `SIEM` · `Анализ уязвимостей` · `Кейс-проект "Киберзащитник" (S7 Airlines)`
+* **Системное администрирование:** `Linux` · `Windows Server` · `Active Directory` · `Инфраструктурные проекты`
+* **Средства защиты и СКЗИ:** `Secret Net Studio` · `Kaspersky Security Center` · `КриптоПро`
+* **Языки программирования:** `Python`
+
+---
+
 <details>
   <summary><b>📜 Нажмите, чтобы посмотреть сертификаты и документы</b></summary>
   <br>
@@ -31,13 +35,6 @@
 
 ### 📬 Как со мной связаться
 
-<a href="https://t.me" target="_blank"><img src="https://shields.io" alt="Telegram"></a>
-<a href="mailto:voltamper999@mail.ru" target="_blank"><img src="https://shields.io" alt="Email"></a>
-<a href="https://wa.me" target="_blank"><img src="https://shields.io" alt="Телефон"></a>
-
-<br><br>
-
 * **Telegram:** [@Voltamper9](https://t.me)
-* **Телефон / WhatsApp:** +79293908866
-* **Email:** voltamper999@mail.ru
-
+* **Телефон / WhatsApp:** [+7 (929) 390-88-66](https://wa.me)
+* **Email:** [voltamper999@mail.ru](mailto:voltamper999@mail.ru)
