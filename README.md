@@ -6,8 +6,8 @@
 
 ### 🛠️ Навыки и технологии
 
-* **Информационная безопасность & СКЗИ:** `SIEM (MaxPatrol 10)` · `Kaspersky Security Center` · `Secret Net Studio` · `КриптоПро CSP` · `ViPNet Client`
-* **Системное администрирование & Сети:** `Linux` · `Windows Server` · `Active Directory` · `OpenVPN` · `RDP` · `SSH`
+* **Информационная безопасность & СКЗИ:** `SIEM (MaxPatrol 10)` · `R-Vision (SOAR/IRP)` · `RedCheck` · `Kaspersky Security Center` · `Secret Net Studio` · `КриптоПро CSP` · `ViPNet Client`
+* **Системное администрирование & Сети:** `Linux` · `Windows Server` · `Active Directory` · `VPN` · `OpenVPN` · `RDP` · `SSH`
 * **Автоматизация:** `Python`
 
 ---
